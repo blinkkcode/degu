@@ -64,7 +64,7 @@
     "@types/jquery": "^3.3.32",
     "@types/offscreencanvas": "^2019.6.0",
     "@types/three": "0.103.2",
-    "angular": "1.7.9",
+    "angular": "1.8.0",
     "angular-animate": "1.7.9",
     "angular-sanitize": "^1.7.9",
     "angular-touch": "1.7.9",
