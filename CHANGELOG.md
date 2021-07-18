@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://www.github.com/blinkk/degu/compare/v1.6.0...v1.7.0) (2021-07-18)
+
+
+### Features
+
+* add lottie-progress-player ([4ca259f](https://www.github.com/blinkk/degu/commit/4ca259fbb739689e3106d60ec52db8865ad25de0))
+
 ## [1.6.0](https://www.github.com/blinkk/degu/compare/v1.5.0...v1.6.0) (2021-07-14)
 
 
